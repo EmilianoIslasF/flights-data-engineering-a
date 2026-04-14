@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "awswrangler>=3.16.0",
+    "matplotlib>=3.10.8",
     "pandas>=3.0.2",
+    "psycopg2-binary>=2.9.11",
     "pyarrow>=23.0.1",
+    "sqlalchemy>=2.0.49",
 ]
