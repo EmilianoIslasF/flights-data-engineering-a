@@ -91,3 +91,50 @@ Consultas SQL en DBeaver y Jupyter, regresión lineal OLS con `statsmodels`, y p
 ├── pyproject.toml
 └── uv.lock
 
+```
+##Glue Catalog para Bronze, Silver y Gold
+<img width="1659" height="279" alt="image" src="https://github.com/user-attachments/assets/1acb2747-e65c-4423-807a-b62730f7092a" />
+###Bronze
+<img width="1646" height="449" alt="image" src="https://github.com/user-attachments/assets/b80307ef-a9a5-4f46-bfcd-0f17f4f7a467" />
+###Silver
+<img width="1648" height="418" alt="image" src="https://github.com/user-attachments/assets/62adcebe-a5eb-43e8-8595-62dd96a27f43" />
+###Gold
+<img width="1646" height="403" alt="image" src="https://github.com/user-attachments/assets/63c99294-2bae-4795-985b-db5c958ac231" />
+
+##Athena y Cloudformation
+###Consulta en Athena 
+<img width="1616" height="895" alt="Captura de pantalla 2026-04-09 200100" src="https://github.com/user-attachments/assets/0c4f2662-d827-4d05-b4a6-6a21cca53305" />
+##SQLAlquemy
+###Conexión con engine 
+<img width="1083" height="146" alt="Captura de pantalla 2026-04-10 182831" src="https://github.com/user-attachments/assets/29cd9447-cb5c-4a47-a683-42fa1f123d20" />
+###Creación de tablas
+<img width="623" height="165" alt="Captura de pantalla 2026-04-10 183614" src="https://github.com/user-attachments/assets/3190ee2a-2c7a-41f6-8240-31246c34a700" />
+
+
+
+##DBeaver con conexión exitosa a la read replica
+###P1
+<img width="921" height="575" alt="image" src="https://github.com/user-attachments/assets/4662ae3b-c3fb-4853-aa51-5f674eca565d" />
+###P2
+<img width="921" height="743" alt="image" src="https://github.com/user-attachments/assets/d3398d4f-a27b-40c8-b3d8-1d16c69a5912" />
+###P3
+<img width="921" height="806" alt="image" src="https://github.com/user-attachments/assets/236dcb5d-582c-4f72-aaff-6793fd2c32d4" />
+###P4
+<img width="921" height="595" alt="image" src="https://github.com/user-attachments/assets/f5f7c0fa-d4e0-4d9a-ac0e-f8232838775a" />
+###P5
+<img width="921" height="693" alt="image" src="https://github.com/user-attachments/assets/e88fc48b-227e-432d-94ad-24f104857c6c" />
+###W1
+<img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d81439-97a1-4e43-8b46-381cb1ad70c7" />
+
+
+
+
+
+
+
+
+
+
+
+```text
+
