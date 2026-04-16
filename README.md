@@ -67,31 +67,7 @@ Consultas SQL en DBeaver y Jupyter, regresión lineal OLS con `statsmodels`, y p
   - MAE AutoTheta: **18735.26**
   - Los intervalos de confianza sugieren alta incertidumbre por contar con solo un año de datos.
 
-## Estructura del repositorio
 
-```text
-.
-├── .gitignore
-├── .python-version
-├── README.md
-├── etl
-│   ├── bronze.py
-│   ├── gold.py
-│   └── silver.py
-├── flights_analytics.ipynb
-├── infra
-│   └── rds-flights.yaml
-├── main.py
-├── postgres
-│   ├── __init__.py
-│   ├── create_tables.py
-│   ├── load_data.py
-│   ├── models.py
-│   └── test_connection.py
-├── pyproject.toml
-└── uv.lock
-
-```
 ##Glue Catalog para Bronze, Silver y Gold
 <img width="1659" height="279" alt="image" src="https://github.com/user-attachments/assets/1acb2747-e65c-4423-807a-b62730f7092a" />
 ###Bronze
@@ -126,15 +102,27 @@ Consultas SQL en DBeaver y Jupyter, regresión lineal OLS con `statsmodels`, y p
 ###W1
 <img width="921" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d81439-97a1-4e43-8b46-381cb1ad70c7" />
 
-
-
-
-
-
-
-
-
-
+## Estructura del repositorio
 
 ```text
+.
+├── .gitignore
+├── .python-version
+├── README.md
+├── etl
+│   ├── bronze.py
+│   ├── gold.py
+│   └── silver.py
+├── flights_analytics.ipynb
+├── infra
+│   └── rds-flights.yaml
+├── main.py
+├── postgres
+│   ├── __init__.py
+│   ├── create_tables.py
+│   ├── load_data.py
+│   ├── models.py
+│   └── test_connection.py
+├── pyproject.toml
+└── uv.lock
 
