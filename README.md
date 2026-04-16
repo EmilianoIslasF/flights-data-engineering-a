@@ -278,6 +278,10 @@ Incluye:
 
 ## Evidencia visual
 
+### ERD
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/92dcd9ee-23a4-4346-848f-b4e65939ef65" />
+
+
 ### Glue Catalog
 
 #### Bases Bronze, Silver y Gold
